@@ -1,0 +1,31 @@
+.App {
+	display: flex;
+}
+h2 {
+	text-align: center;
+}
+.container{
+	border: 1px solid #ccc;
+	width: 100%;
+	flex: 2;
+	display: flex;
+	
+
+}
+lable {
+	float: left;
+	width: 90px;
+}
+
+.form-group {
+	padding:10px 30px; 
+}
+.user-list  {
+	border: 1px solid #ccc;	
+	flex: 2;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin-left: 5px;
+
+}
